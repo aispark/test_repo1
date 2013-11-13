@@ -1,2 +1,1 @@
-ReadgroupType	ReferenceLength	%Coverage	TotalRead	MappedRead	%MappedRead	MappedYield	MeanDepth
-P	373245519	0.0	15588	9	0.06	138	0.0
+modify
